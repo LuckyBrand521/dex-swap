@@ -1,0 +1,27 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://app.uniswap.org",
+  "providedBy": { "name": "CBSwap", "url": "https://app.cbswap.io" },
+  "icons": [
+    {
+      "src": "./images/192x192_App_Icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/512x512_App_Icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "CBSwap",
+  "description": "Swap or provide liquidity on the CBSwap Protocol",
+  "iconPath": "./images/512x512_App_Icon.png",
+  "short_name": "CBSwap",
+  "start_url": ".",
+  "theme_color": "#ff007a"
+}
